@@ -1,6 +1,6 @@
 public class User {
     private String name;
-
+    private int id;
     private int balance;
     private double discount;
     private static int counter = 0;
