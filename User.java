@@ -60,3 +60,15 @@ public class User {
     }
 
 }
+/*
+public User(String name, int balance, Double discount) {
+        // VIP person with discount
+        System.out.printf("%s balance is %d \n", name, balance);
+        counter++;
+        this.name = name;
+
+        this.balance = balance;
+        this.discount = discount;
+
+    }
+ */
